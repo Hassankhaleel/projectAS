@@ -3,28 +3,9 @@ import logoFooter from './Footer Logo.gif'
 function Footer() {
     return (
         <>
-            <div className='container Fotter_sec'>
-                <div className='row d-flex justify-content-center align-items-center  h-100'>
-                    <div className='col-lg-6 col-sm-12 col-md-12 '>
-                        <div className=''>
-                            <h1 className='text-white fs-2 p-lg-5  '>
-                                Subscribe Our Newsletter To Stay Updates
-                            </h1>
-                        </div>
-                    </div>
-                    <div className='col-lg-6 col-sm-12 col-md-12 '>
-                        <div className=' input_div_footer d-flex justify-content-center align-items-center '>
-                            <div className='d-flex justify-content-around w-100 align-items-center '>
-                                <input placeholder='Enter Your Email' />
-                                <button className='footer_tbn'>Get Satrted</button>
-                            </div>
-                        </div>
-                    </div>
 
-                </div>
-            </div>
 
-            <div className='container ' style={{ marginTop: "-50px" }}>
+            <div className='container  mt-5' style={{ marginTop: "-50px" }}>
                 <div className='row d-flex justify-content-center align-items-center  '>
                     {/* <div className='col-lg-6 col-sm-12 col-md-12 '>
                         <nav class="navbar navbar-expand-lg ">
@@ -59,7 +40,7 @@ function Footer() {
                             </div>
                         </nav>
                     </div> */}
-                    <div className='col-lg-6 col-sm-12 col-md-12 '>
+                    <div className='col-lg-6 col-sm-12 col-md-12  mt-5'>
                         <div className=' input_div_footer d-flex  justify-content-center align-items-center ' style={{ backgroundColor: "transparent" }}>
                             <div className='d-flex justify-content-around  w-25 align-items-center '>
                                 <a href='https://www.facebook.com/profile.php?id=61555457739340'> <i class="fa-brands fa-facebook-f" ></i></a>
@@ -74,7 +55,7 @@ function Footer() {
                 </div>
 
             </div>
-            <div className='container'>
+            <div className='container '>
                 <div className='row'>
                     <div className='col-lg-5 col-sm-12 col-md-12 d-flex justify-content-center align-items-end'>
                         <p className='text-white fw-lighter'>@2024 Astero Solutions.All Right Reverse</p>
@@ -83,7 +64,7 @@ function Footer() {
                         <img src={logoFooter} className='w-50' />
                     </div>
                     <div className='col-lg-5 col-sm-12 col-md-12 d-flex justify-content-center align-items-end'>
-                        <p className='text-white fw-lighter'>Terms & Policy | Privacy Policy</p>
+                        <p className='text-white fw-lighter'>Terms and Conditions | Privacy Policy</p>
                     </div>
                 </div>
             </div>

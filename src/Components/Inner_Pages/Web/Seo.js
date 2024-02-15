@@ -30,7 +30,7 @@ function Seo() {
                         <div className='col-lg-12 col-12 d-flex justify-content-center align-items-center flex-column mt-lg-5 App_1'>
                             <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value</h1>
                             <p className='text-white fw-lighter w-50 text-center '>
-                                Our commitment to excellence is powered by a robust Agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
+                                Our commitment to excellence is driven by a strategic and data-driven approach to SEO, ensuring long-term visibility and sustainable growth.
                             </p>
                         </div>
                         <div className='col-lg-4 col-sm-12 col-md-12 '>
@@ -72,7 +72,7 @@ function Seo() {
                                 <div>
                                     <h2 className='text-white fs-1'>Content Strategy and Creation</h2>
                                     <p className='text-white fw-lighter '>
-                                        Engage your audience through personalized and effective email campaigns, nurturing leads, promoting products, and fosteria We develop a targeted content strategy, creating high-quality, relevant content.
+                                    Engage your audience through personalized and effective email campaigns, nurturing leads, promoting products, and fosteria We develop a targeted content strategy, creating high-quality, relevant content.
                                     </p>
                                 </div>
 
@@ -134,7 +134,7 @@ function Seo() {
                         <div className='col-lg-12 mt-5 col-sm-12 d-flex justify-content-lg-center align-items-center'>
                             <h1 className='text-white'>Search Engine Optimization Services We Offer:</h1>
                         </div>
-                        <div className='col-lg-6 col-sm-12 col-md-12 cards-web mt-lg-3 d-flex justify-content-lg-center justify-content-lg-center align-items-center '>
+                        <div className='col-lg-6 col-sm-12 col-md-12 cards-web mt-lg-3 d-flex justify-content-lg-center align-items-center'>
                             <div className='d-flex justify-content-start align-items-end'>
                                 <h1 className=''>01</h1>
                                 <p className='text-white fw-lighter ms-2 '></p>Technical SEO Audits

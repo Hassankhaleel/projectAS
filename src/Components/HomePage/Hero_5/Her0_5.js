@@ -20,7 +20,7 @@ function Her0_5() {
                     let projCount = 0;
 
                     const intervalId = setInterval(() => {
-                        if (currentCount <= 100) {
+                        if (currentCount <= 15) {
                             setCount(currentCount);
                             currentCount++;
                         }
@@ -62,7 +62,7 @@ function Her0_5() {
                         <div className='col-lg-6 col-sm-12 col-md-12 bg d-flex justify-content-center align-items-start flex-column order-lg-1 order-'>
                             <div>
                                 <div className='h5_div' >
-                                    <h5>Welcome to Aestro Solutions</h5>
+                                    {/* <h5>Welcome to Aestro Solutions</h5> */}
                                 </div>
                                 <h1 className='text-white'>Let Us Be Your
                                     IT Partner</h1>

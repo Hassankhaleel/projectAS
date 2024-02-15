@@ -18,9 +18,10 @@ function DigiTal() {
                 <div className='container App_dev'>
                     <div className='row'>
                         <div className='col-12 about_1  d-flex justify-content-center align-items-center flex-column'>
-                            <h1 className='w-75 text-white text-center'>App Development</h1>
+                            <h1 className='w-75 text-white text-center'>Digital Marketing</h1>
                             <p className='w-50 text-white text-center fw-lighter'>
-                                Welcome to Astero Solutions, your trusted ally in the realm of mobile app development. As a pioneering Apptal solutions provider, we specialize in creating dynamic mobile applications that elevate user experiences, seamlessly integrate cutting-edge features, and drive business success.
+                                Welcome to Astero Solutions, your gateway to innovative and results-driven digital marketing strategies. As a leading digital marketing agency, we specialize in crafting comprehensive campaigns that propel your brand forward, drive engagement, and generate measurable results across various online platforms.
+
                             </p>
                         </div>
                     </div>
@@ -30,9 +31,9 @@ function DigiTal() {
                 <div className='container'>
                     <div className='row'>
                         <div className='col-lg-12 col-12 d-flex justify-content-center align-items-center flex-column mt-lg-5 App_1'>
-                            <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value</h1>
+                            <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value:</h1>
                             <p className='text-white fw-lighter w-50 text-center '>
-                                Our commitment to excellence is powered by a robust Agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
+                                Our commitment to excellence is driven by a strategic approach to digital marketing, leveraging cutting-edge techniques and technologies to maximize your online presence.
                             </p>
                         </div>
                         <div className='col-lg-4 col-sm-12 col-md-12 '>

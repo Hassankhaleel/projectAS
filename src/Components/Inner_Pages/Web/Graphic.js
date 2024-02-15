@@ -32,7 +32,7 @@ function Graphic() {
                         <div className='col-lg-12 col-12 d-flex justify-content-center align-items-center flex-column mt-lg-5 App_1'>
                             <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value</h1>
                             <p className='text-white fw-lighter w-50 text-center'>
-                                Our commitment to excellence is powered by a robust Agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
+                             Our commitment to excellence is rooted in a creative and strategic approach to graphic design, ensuring that every design element serves a purpose in conveying your brand message.
                             </p>
                         </div>
                         <div className='col-lg-4 col-sm-12 col-md-12 '>

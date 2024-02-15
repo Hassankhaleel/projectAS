@@ -20,7 +20,7 @@ function Isuue() {
                         <div className='col-12 about_1  d-flex justify-content-center align-items-center flex-column '>
                             <h1 className='w-75 text-white text-center'>Quality Assurance and Testing</h1>
                             <p className='w-50 text-white text-center fw-lighter'>
-                                Welcome to Astero Solutions, where we redefine digital interactions through captivating and user-centric UI/UX design services. As a forward-thinking design agency, we specialize in crafting visually stunning and intuitively navigable interfaces that resonate with your audience and enhance your brand identity.
+                                Welcome to Astero Solutions, your partner in delivering software solutions of uncompromising quality. As a dedicated quality assurance and testing service provider, we specialize in meticulously testing and validating software applications to guarantee reliability, security, and optimal performance.
                             </p>
                         </div>
                     </div>
@@ -32,7 +32,7 @@ function Isuue() {
                         <div className='col-lg-12 col-12 d-flex justify-content-center align-items-center flex-column mt-lg-5 App_1'>
                             <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value</h1>
                             <p className='text-white fw-lighter w-50 text-center'>
-                                Our commitment to excellence is powered by a robust Agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
+                            Our commitment to excellence is underpinned by a rigorous quality assurance process that prioritizes thorough testing, security, and adherence to specified requirements.
                             </p>
                         </div>
                         <div className='col-lg-4 col-sm-12 col-md-12 '>

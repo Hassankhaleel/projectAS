@@ -20,7 +20,8 @@ function App_dev() {
                         <div className='col-12 about_1  d-flex justify-content-center align-items-center flex-column'>
                             <h1 className='w-75 text-white text-center'>App Development</h1>
                             <p className='w-50 text-white text-center fw-lighter'>
-                                Welcome to Astero Solutions, your trusted ally in the realm of mobile app development. As a pioneering Apptal solutions provider, we specialize in creating dynamic mobile applications that elevate user experiences, seamlessly integrate cutting-edge features, and drive business success.
+                                Welcome to Astero Solutions, your trusted ally in the realm of mobile app development. As a pioneering digital solutions provider, we specialize in creating dynamic mobile applications that elevate user experiences, seamlessly integrate cutting-edge features, and drive business success.
+
                             </p>
                         </div>
                     </div>
@@ -32,7 +33,7 @@ function App_dev() {
                         <div className='col-lg-12 col-12 d-flex justify-content-center align-items-center flex-column mt-lg-5 App_1'>
                             <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value</h1>
                             <p className='text-white fw-lighter w-50 text-center '>
-                                Our commitment to excellence is powered by a robust Agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
+                                Our commitment to excellence is powered by a robust agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
                             </p>
                         </div>
                         <div className='col-lg-4 col-sm-12 col-md-12 '>
@@ -72,9 +73,9 @@ function App_dev() {
                                     <img src={logo} style={{ width: "30px" }} />
                                 </div>
                                 <div>
-                                    <h2 className='text-white fs-1'>Speed to Market</h2>
+                                    <h2 className='text-white fs-1'>Cost-Efficient Management</h2>
                                     <p className='text-white fw-lighter '>
-                                        Through agile iterations, we swiftly develop functional increments, enabling you to launch your mobile app faster and gather valuable user insights.
+                                    Dedicated to maximizing cost-efficiency without compromising quality, we ensure exceptional value in our mobile app development services.
                                     </p>
                                 </div>
 
@@ -104,7 +105,7 @@ function App_dev() {
                                 <div>
                                     <h2 className='text-white fs-1'>Innovative Features</h2>
                                     <p className='text-white fw-lighter '>
-                                        Infusing cutting-edge features, we set your mobile application apart in the competitive Apptal landscape, ensuring it  breakthrough solutions.
+                                    Infusing cutting-edge features, we set your mobile application apart in the competitive digital landscape, ensuring it stands out with breakthrough solutions.
                                     </p>
                                 </div>
 

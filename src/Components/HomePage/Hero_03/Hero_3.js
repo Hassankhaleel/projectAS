@@ -53,7 +53,7 @@ function Hero_3() {
 
                     <div className='col-lg-8 col-sm-12 w-100 her0_3_res'>
                         <div className=' hero_3_div ms-4'>
-                            <h5 className='fs-6 '>Services</h5>
+                            {/* <h5 className='fs-6 '>Services</h5> */}
                         </div>
                         <div className=''>
                             <h1 className='text-white '>Services We Offer</h1>

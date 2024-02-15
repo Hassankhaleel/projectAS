@@ -19,7 +19,7 @@ function Ecome() {
                         <div className='col-12 about_1  d-flex justify-content-center align-items-center flex-column'>
                             <h1 className='w-75 text-white text-center'>E commerce Development</h1>
                             <p className='w-50 text-white text-center fw-lighter'>
-                                Welcome to Astero Solutions, your trusted partner in driving e-commerce success. As a premier provider of comprehensive e-commerce solutions, we specialize in creating tailored platforms that not only showcase your products but also elevate the overall shopping experience for your customers.a
+                            Welcome to Astero Solutions, your trusted partner in driving e-commerce success. As a premier provider of comprehensive e-commerce solutions, we specialize in creating tailored platforms that not only showcase your products but also elevate the overall shopping experience for your customers.
                             </p>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ function Ecome() {
                         <div className='col-lg-12 col-12 d-flex justify-content-center align-items-center flex-column mt-lg-5 App_1'>
                             <h1 className='text-white w-75 text-center'>How Astero Solutions Adds Value</h1>
                             <p className='text-white fw-lighter w-50 text-center '>
-                                Our commitment to excellence is powered by a robust Agile process that ensures efficiency, flexibility, and swift results throughout the mobile app development journey.
+                            Our commitment to excellence is driven by a strategic approach to e-commerce development, emphasizing user experience, security, and innovative features.
                             </p>
                         </div>
                         <div className='col-lg-4 col-sm-12 col-md-12 '>
